@@ -234,7 +234,7 @@
 	(footprint "CustomLibrary:CONN_SD-105313-100_05_MOL"
 		(layer "F.Cu")
 		(uuid "01219b0a-16dc-422b-98f6-77f8ae7c825a")
-		(at 114.308106 76.9666 -90)
+		(at 115 79.5 -90)
 		(tags "1053131105 ")
 		(property "Reference" "J2"
 			(at -5 0 -90)
@@ -609,7 +609,7 @@
 	(footprint "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "01523b81-483e-43a2-8fa2-3feab2b9b371")
-		(at 110.5 95)
+		(at 145.5 95)
 		(descr "Through hole straight pin header, 2x20, 1.00mm pitch, double rows")
 		(tags "Through hole pin header THT 2x20 1.00mm double row")
 		(property "Reference" "REF**"
@@ -624,7 +624,7 @@
 			)
 		)
 		(property "Value" "PinHeader_2x20_P1.00mm_Vertical"
-			(at 0.5 20.56 0)
+			(at 2.5 -6 0)
 			(layer "F.Fab")
 			(uuid "0d51541b-71dc-4273-981a-4d226500ddc4")
 			(effects
@@ -1200,7 +1200,7 @@
 	(footprint "CustomLibrary:DBV0006A_L"
 		(layer "F.Cu")
 		(uuid "0595ef94-3070-4002-a26a-5f2631841d39")
-		(at 123.5 50.5 90)
+		(at 138.8236 53.5 90)
 		(tags "TPS61165DBVR ")
 		(property "Reference" "U6"
 			(at 0 0 90)
@@ -2295,7 +2295,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "0738c460-50fd-4cd0-9beb-9d1bc750d9b7")
-		(at 183.5 64.0522 -90)
+		(at 218.5 64.0522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C13"
 			(at 0 0 -90)
@@ -2616,7 +2616,7 @@
 			)
 			(polygon
 				(pts
-					(xy 184.3255 63.2394) (xy 184.3255 64.865) (xy 182.6745 64.865) (xy 182.6745 63.2394)
+					(xy 219.3255 63.2394) (xy 219.3255 64.865) (xy 217.6745 64.865) (xy 217.6745 63.2394)
 				)
 			)
 		)
@@ -2624,7 +2624,7 @@
 	(footprint "CustomLibrary:IND_TAIYO_LBR2012_TAY"
 		(layer "F.Cu")
 		(uuid "0b55cd1f-799e-413a-96c8-20b019c8ff18")
-		(at 120.1999 50)
+		(at 135.5235 53)
 		(tags "LBR2012T100K ")
 		(property "Reference" "L3"
 			(at 0 0 0)
@@ -2947,7 +2947,7 @@
 			)
 			(polygon
 				(pts
-					(xy 119.7554 49.3269) (xy 120.6444 49.3269) (xy 120.6444 50.6731) (xy 119.7554 50.6731)
+					(xy 135.079 52.3269) (xy 135.968 52.3269) (xy 135.968 53.6731) (xy 135.079 53.6731)
 				)
 			)
 		)
@@ -2955,7 +2955,7 @@
 	(footprint "CustomLibrary:RES_YC248_4X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "0bbbdd07-6872-4ce0-9390-938a84610938")
-		(at 145.250001 66.4652 90)
+		(at 180.250001 66.4652 90)
 		(tags "YC248-JR-07330RL ")
 		(property "Reference" "R11"
 			(at 0 0 90)
@@ -3738,7 +3738,7 @@
 	(footprint "CustomLibrary:CONN40_CF3140_CVI"
 		(layer "F.Cu")
 		(uuid "0d54042f-0b4f-4088-9500-cce3df405943")
-		(at 140.5 73.5)
+		(at 175.5 73.5)
 		(tags "CF31401D0R0-05-NH ")
 		(property "Reference" "J3"
 			(at 0 -3.2131 0)
@@ -4376,7 +4376,7 @@
 	(footprint "CustomLibrary:CL1206_SAM"
 		(layer "F.Cu")
 		(uuid "0ebffdd8-efbc-4bd7-9c8a-b6402d489377")
-		(at 118 73.4732 -90)
+		(at 122.0527 73.9732 -90)
 		(tags "CL31A226MOCLNNC ")
 		(property "Reference" "C31"
 			(at 0 0 -90)
@@ -4686,7 +4686,7 @@
 			)
 			(polygon
 				(pts
-					(xy 118.8509 72.635) (xy 118.8509 74.3114) (xy 117.1491 74.3114) (xy 117.1491 72.635)
+					(xy 122.9036 73.135) (xy 122.9036 74.8114) (xy 121.2018 74.8114) (xy 121.2018 73.135)
 				)
 			)
 		)
@@ -4694,7 +4694,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "148b16b4-d73c-4c8d-831b-4d5c528882d3")
-		(at 173.5 75.1044 -90)
+		(at 208.5 75.1044 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C23"
 			(at 0 0 -90)
@@ -5004,7 +5004,7 @@
 			)
 			(polygon
 				(pts
-					(xy 174.2492 74.055199) (xy 174.2492 76.153601) (xy 172.7508 76.153601) (xy 172.7508 74.055199)
+					(xy 209.2492 74.055199) (xy 209.2492 76.153601) (xy 207.7508 76.153601) (xy 207.7508 74.055199)
 				)
 			)
 		)
@@ -5012,7 +5012,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "17a347a7-972e-401f-b3db-4fe045539e77")
-		(at 181 80.6044 -90)
+		(at 216 80.6044 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C12"
 			(at 0 0 -90)
@@ -5333,7 +5333,7 @@
 			)
 			(polygon
 				(pts
-					(xy 181.8255 79.7916) (xy 181.8255 81.4172) (xy 180.1745 81.4172) (xy 180.1745 79.7916)
+					(xy 216.8255 79.7916) (xy 216.8255 81.4172) (xy 215.1745 81.4172) (xy 215.1745 79.7916)
 				)
 			)
 		)
@@ -5341,7 +5341,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "196e88ad-783a-49f3-9e82-a6dd80370e06")
-		(at 142.1914 49.46)
+		(at 177.1914 49.46)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C1"
 			(at 0 0 0)
@@ -5651,7 +5651,7 @@
 			)
 			(polygon
 				(pts
-					(xy 141.142199 48.7108) (xy 143.240601 48.7108) (xy 143.240601 50.2092) (xy 141.142199 50.2092)
+					(xy 176.142199 48.7108) (xy 178.240601 48.7108) (xy 178.240601 50.2092) (xy 176.142199 50.2092)
 				)
 			)
 		)
@@ -5659,7 +5659,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "212dd4b6-e9ff-40fc-918d-c096c9bc15f8")
-		(at 181 64.0522 -90)
+		(at 216 64.0522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C17"
 			(at 0 0 -90)
@@ -5980,7 +5980,7 @@
 			)
 			(polygon
 				(pts
-					(xy 181.8255 63.2394) (xy 181.8255 64.865) (xy 180.1745 64.865) (xy 180.1745 63.2394)
+					(xy 216.8255 63.2394) (xy 216.8255 64.865) (xy 215.1745 64.865) (xy 215.1745 63.2394)
 				)
 			)
 		)
@@ -5988,7 +5988,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "21cbdace-4db6-4493-8425-8bf0bb19ccf8")
-		(at 178.5 63.972199 -90)
+		(at 213.5 63.972199 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C21"
 			(at 0 0 -90)
@@ -6298,7 +6298,7 @@
 			)
 			(polygon
 				(pts
-					(xy 179.2492 62.922998) (xy 179.2492 65.0214) (xy 177.7508 65.0214) (xy 177.7508 62.922998)
+					(xy 214.2492 62.922998) (xy 214.2492 65.0214) (xy 212.7508 65.0214) (xy 212.7508 62.922998)
 				)
 			)
 		)
@@ -6306,10 +6306,10 @@
 	(footprint "CustomLibrary:RC1206N_YAG"
 		(layer "F.Cu")
 		(uuid "22913dd9-f1b9-4018-9a63-75e7403e91e2")
-		(at 124.103 69.5)
+		(at 118.0439 72.398 -90)
 		(tags "RC1206FR-074K7L ")
 		(property "Reference" "R6"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "64ac4f48-811a-4e4a-bdd1-0de70809e7d5")
@@ -6321,7 +6321,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "53c73bf5-b14f-443f-84ab-659b789b5332")
@@ -6333,7 +6333,7 @@
 			)
 		)
 		(property "Footprint" "RC1206N_YAG"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5be7253-fb80-4f61-b21b-3e612a215493")
@@ -6345,7 +6345,7 @@
 			)
 		)
 		(property "Datasheet" "RC1206FR-074K7L"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6756410f-ea12-4967-a86c-7bd29c9917ec")
@@ -6357,7 +6357,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7643e8e-2984-4c1c-b6fe-3e6b906e4dee")
@@ -6394,16 +6394,6 @@
 			(uuid "44100f83-c263-48ef-aab7-e6fabc649ed5")
 		)
 		(fp_line
-			(start -2.2098 -1.0541)
-			(end 2.2098 -1.0541)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0a6d1762-cb94-4ca4-a3f9-8c0176fa29e4")
-		)
-		(fp_line
 			(start -2.2098 1.0541)
 			(end -2.2098 -1.0541)
 			(stroke
@@ -6412,16 +6402,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "5752c15d-e430-423c-8a00-76652849ec6c")
-		)
-		(fp_line
-			(start 2.2098 -1.0541)
-			(end 2.2098 1.0541)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1dc5dab0-b4ec-4201-b00f-a08beecf3a98")
 		)
 		(fp_line
 			(start 2.2098 1.0541)
@@ -6434,24 +6414,24 @@
 			(uuid "4844b97f-2f8e-4ead-b90a-705ba2902166")
 		)
 		(fp_line
-			(start -1.6002 -0.8001)
-			(end -1.6002 0.8001)
+			(start -2.2098 -1.0541)
+			(end 2.2098 -1.0541)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "b4be5974-4242-4f7e-b612-7767c5b17932")
+			(layer "F.CrtYd")
+			(uuid "0a6d1762-cb94-4ca4-a3f9-8c0176fa29e4")
 		)
 		(fp_line
-			(start -1.6002 -0.8001)
-			(end -1.6002 0.8001)
+			(start 2.2098 -1.0541)
+			(end 2.2098 1.0541)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "e3ff040f-447d-4308-a618-d8f70f3fd15b")
+			(layer "F.CrtYd")
+			(uuid "1dc5dab0-b4ec-4201-b00f-a08beecf3a98")
 		)
 		(fp_line
 			(start -1.6002 0.8001)
@@ -6474,16 +6454,6 @@
 			(uuid "ded6c076-4b4a-45da-90c8-0cbdfd1e6895")
 		)
 		(fp_line
-			(start -0.8382 -0.8001)
-			(end -1.6002 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "59f73350-70e2-4bb7-aae1-3b280165c174")
-		)
-		(fp_line
 			(start -0.8382 0.8001)
 			(end -0.8382 -0.8001)
 			(stroke
@@ -6494,16 +6464,6 @@
 			(uuid "202960e8-afaa-421a-97e0-1b49b2792a5a")
 		)
 		(fp_line
-			(start 0.8382 -0.8001)
-			(end 0.8382 0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "35edc6da-0945-4acf-a2b1-8909c56d439e")
-		)
-		(fp_line
 			(start 0.8382 0.8001)
 			(end 1.6002 0.8001)
 			(stroke
@@ -6512,26 +6472,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "d25f30b9-7ed4-4718-b516-2df447e71877")
-		)
-		(fp_line
-			(start 1.6002 -0.8001)
-			(end -1.6002 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b0c859c6-0c1b-46a8-a85a-bc5bd0b8a355")
-		)
-		(fp_line
-			(start 1.6002 -0.8001)
-			(end 0.8382 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f3b13e65-8468-47ae-9f19-d5093e2d11cf")
 		)
 		(fp_line
 			(start 1.6002 0.8001)
@@ -6553,8 +6493,68 @@
 			(layer "F.Fab")
 			(uuid "9ecfee6c-79aa-47de-8174-18df34dd6750")
 		)
+		(fp_line
+			(start -1.6002 -0.8001)
+			(end -1.6002 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b4be5974-4242-4f7e-b612-7767c5b17932")
+		)
+		(fp_line
+			(start -1.6002 -0.8001)
+			(end -1.6002 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e3ff040f-447d-4308-a618-d8f70f3fd15b")
+		)
+		(fp_line
+			(start -0.8382 -0.8001)
+			(end -1.6002 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "59f73350-70e2-4bb7-aae1-3b280165c174")
+		)
+		(fp_line
+			(start 0.8382 -0.8001)
+			(end 0.8382 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "35edc6da-0945-4acf-a2b1-8909c56d439e")
+		)
+		(fp_line
+			(start 1.6002 -0.8001)
+			(end -1.6002 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b0c859c6-0c1b-46a8-a85a-bc5bd0b8a355")
+		)
+		(fp_line
+			(start 1.6002 -0.8001)
+			(end 0.8382 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f3b13e65-8468-47ae-9f19-d5093e2d11cf")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "db12ddf6-26fe-4f0c-815d-8c7fe23186d9")
@@ -6566,7 +6566,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -1.397 0)
+			(at -1.397 0 270)
 			(size 1.1176 1.6002)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 77 "Net-(R5-Pad2)")
@@ -6574,7 +6574,7 @@
 			(uuid "486e3954-852c-4c79-8996-c5410b81b21d")
 		)
 		(pad "2" smd rect
-			(at 1.397 0)
+			(at 1.397 0 270)
 			(size 1.1176 1.6002)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 78 "Net-(U5-VFB)")
@@ -6605,7 +6605,7 @@
 			)
 			(polygon
 				(pts
-					(xy 123.3156 68.7507) (xy 124.8904 68.7507) (xy 124.8904 70.2493) (xy 123.3156 70.2493)
+					(xy 118.7932 71.6106) (xy 118.7932 73.1854) (xy 117.2946 73.1854) (xy 117.2946 71.6106)
 				)
 			)
 		)
@@ -6613,7 +6613,7 @@
 	(footprint "CustomLibrary:CL1206_SAM"
 		(layer "F.Cu")
 		(uuid "2d90055b-ef81-4c6f-bb8e-5fad3640dbaa")
-		(at 122.5268 58.5268 -90)
+		(at 136.9746 66.5536 -90)
 		(tags "CL31A226MOCLNNC ")
 		(property "Reference" "C25"
 			(at 0 0 -90)
@@ -6923,7 +6923,7 @@
 			)
 			(polygon
 				(pts
-					(xy 123.3777 57.6886) (xy 123.3777 59.365) (xy 121.6759 59.365) (xy 121.6759 57.6886)
+					(xy 137.8255 65.7154) (xy 137.8255 67.3918) (xy 136.1237 67.3918) (xy 136.1237 65.7154)
 				)
 			)
 		)
@@ -6931,7 +6931,7 @@
 	(footprint "CustomLibrary:SOT95P280X110-6N"
 		(layer "F.Cu")
 		(uuid "33276d14-a863-45f1-bb49-e784d5a3867a")
-		(at 132 56 180)
+		(at 146.4478 64 180)
 		(property "Reference" "U7"
 			(at -0.068 -2.2064 0)
 			(layer "F.SilkS")
@@ -7318,10 +7318,10 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "39dc7f91-5219-4301-ab55-6c91db5893fa")
-		(at 119.4478 67)
+		(at 132.5 72.4478 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C36"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e3881d1b-06c8-46b0-9a13-50a6e4cde3cb")
@@ -7333,7 +7333,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "1a2deebc-4620-44c4-9a3c-b50507a4ba69")
@@ -7345,7 +7345,7 @@
 			)
 		)
 		(property "Footprint" "CAP_1206_B_WAL"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1280c18c-5d21-45e1-bfd1-27204b4ae8ab")
@@ -7357,7 +7357,7 @@
 			)
 		)
 		(property "Datasheet" "1206B104K500CT"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3963e454-bd42-42b9-bb24-65775a3f916d")
@@ -7369,7 +7369,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "72dd2292-56b4-4275-9bc5-951b22958c63")
@@ -7417,16 +7417,6 @@
 			(uuid "9a7440aa-4d6b-4443-afce-d56a07a3d680")
 		)
 		(fp_line
-			(start -2.286 -1.1303)
-			(end 2.286 -1.1303)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "dfd99bf5-7ede-4fe8-b296-faee11d9b586")
-		)
-		(fp_line
 			(start -2.286 1.1303)
 			(end -2.286 -1.1303)
 			(stroke
@@ -7435,16 +7425,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "cf1ab75c-9fd8-4ab0-8bc4-15c405437b01")
-		)
-		(fp_line
-			(start 2.286 -1.1303)
-			(end 2.286 1.1303)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "d5c0d618-c0a8-4b7c-97b1-8043855ba60b")
 		)
 		(fp_line
 			(start 2.286 1.1303)
@@ -7457,24 +7437,24 @@
 			(uuid "366116d2-1ccd-4011-a373-0d3fb4cbeff3")
 		)
 		(fp_line
-			(start -1.6764 -0.8763)
-			(end -1.6764 0.8763)
+			(start -2.286 -1.1303)
+			(end 2.286 -1.1303)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "83b2ba45-7846-4e7f-97a9-2cdc37a3656f")
+			(layer "F.CrtYd")
+			(uuid "dfd99bf5-7ede-4fe8-b296-faee11d9b586")
 		)
 		(fp_line
-			(start -1.6764 -0.8763)
-			(end -1.6764 0.8763)
+			(start 2.286 -1.1303)
+			(end 2.286 1.1303)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "e170f61d-3ec2-4625-a074-6acf8571cbdb")
+			(layer "F.CrtYd")
+			(uuid "d5c0d618-c0a8-4b7c-97b1-8043855ba60b")
 		)
 		(fp_line
 			(start -1.6764 0.8763)
@@ -7497,16 +7477,6 @@
 			(uuid "e9bbb48b-6d82-457c-8e17-87b36c7b83fd")
 		)
 		(fp_line
-			(start -0.8636 -0.8763)
-			(end -1.6764 -0.8763)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "2a9f1f86-dfce-45f6-84eb-633535e48dde")
-		)
-		(fp_line
 			(start -0.8636 0.8763)
 			(end -0.8636 -0.8763)
 			(stroke
@@ -7517,16 +7487,6 @@
 			(uuid "90e90fbb-a59b-41c7-91a5-1c5bd8bbbbec")
 		)
 		(fp_line
-			(start 0.8636 -0.8763)
-			(end 0.8636 0.8763)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e942f072-550c-4e19-b537-4de11ad69647")
-		)
-		(fp_line
 			(start 0.8636 0.8763)
 			(end 1.6764 0.8763)
 			(stroke
@@ -7535,26 +7495,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "d447f40e-7c53-43d1-a62d-3504b0dd704e")
-		)
-		(fp_line
-			(start 1.6764 -0.8763)
-			(end -1.6764 -0.8763)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b8264df0-391f-41b6-a4d1-985fe7444ea0")
-		)
-		(fp_line
-			(start 1.6764 -0.8763)
-			(end 0.8636 -0.8763)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "515f7e57-8dd2-478b-a6ee-95b619995ee4")
 		)
 		(fp_line
 			(start 1.6764 0.8763)
@@ -7576,6 +7516,66 @@
 			(layer "F.Fab")
 			(uuid "f62f686f-c87c-45ae-ac95-e5c4bad5cb0f")
 		)
+		(fp_line
+			(start -1.6764 -0.8763)
+			(end -1.6764 0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "83b2ba45-7846-4e7f-97a9-2cdc37a3656f")
+		)
+		(fp_line
+			(start -1.6764 -0.8763)
+			(end -1.6764 0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e170f61d-3ec2-4625-a074-6acf8571cbdb")
+		)
+		(fp_line
+			(start -0.8636 -0.8763)
+			(end -1.6764 -0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2a9f1f86-dfce-45f6-84eb-633535e48dde")
+		)
+		(fp_line
+			(start 0.8636 -0.8763)
+			(end 0.8636 0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e942f072-550c-4e19-b537-4de11ad69647")
+		)
+		(fp_line
+			(start 1.6764 -0.8763)
+			(end -1.6764 -0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b8264df0-391f-41b6-a4d1-985fe7444ea0")
+		)
+		(fp_line
+			(start 1.6764 -0.8763)
+			(end 0.8636 -0.8763)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "515f7e57-8dd2-478b-a6ee-95b619995ee4")
+		)
 		(fp_circle
 			(center -1.4224 0)
 			(end -1.3462 0)
@@ -7588,7 +7588,7 @@
 			(uuid "d619d0f5-5ac6-471b-9435-44a5963dea5c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "9c68658e-05aa-438f-9386-133597d8231b")
@@ -7600,7 +7600,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -1.4478 0)
+			(at -1.4478 0 270)
 			(size 1.1684 1.7526)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 13 "Net-(U5-SW)")
@@ -7608,7 +7608,7 @@
 			(uuid "f4e2ba1e-3c5b-42cf-9a0a-bd184dc7eb01")
 		)
 		(pad "2" smd rect
-			(at 1.4478 0)
+			(at 1.4478 0 270)
 			(size 1.1684 1.7526)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 12 "Net-(U5-VBST)")
@@ -7639,7 +7639,7 @@
 			)
 			(polygon
 				(pts
-					(xy 118.635 66.1745) (xy 120.2606 66.1745) (xy 120.2606 67.8255) (xy 118.635 67.8255)
+					(xy 133.3255 71.635) (xy 133.3255 73.2606) (xy 131.6745 73.2606) (xy 131.6745 71.635)
 				)
 			)
 		)
@@ -7647,7 +7647,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "3d032002-58d8-449f-a6b4-1c6f88d210ac")
-		(at 173.5 69.5 -90)
+		(at 208.5 69.5 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C22"
 			(at 0 0 -90)
@@ -7957,7 +7957,7 @@
 			)
 			(polygon
 				(pts
-					(xy 174.2492 68.450799) (xy 174.2492 70.549201) (xy 172.7508 70.549201) (xy 172.7508 68.450799)
+					(xy 209.2492 68.450799) (xy 209.2492 70.549201) (xy 207.7508 70.549201) (xy 207.7508 68.450799)
 				)
 			)
 		)
@@ -7965,7 +7965,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "3d9cba6f-ea9f-4cf9-a671-43130787e6be")
-		(at 178.5 80.6044 -90)
+		(at 213.5 80.6044 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C16"
 			(at 0 0 -90)
@@ -8286,7 +8286,7 @@
 			)
 			(polygon
 				(pts
-					(xy 179.3255 79.7916) (xy 179.3255 81.4172) (xy 177.6745 81.4172) (xy 177.6745 79.7916)
+					(xy 214.3255 79.7916) (xy 214.3255 81.4172) (xy 212.6745 81.4172) (xy 212.6745 79.7916)
 				)
 			)
 		)
@@ -8294,7 +8294,7 @@
 	(footprint "CustomLibrary:FERRITE_0603_1P6XP8_MUR"
 		(layer "F.Cu")
 		(uuid "4282c984-3700-42f3-9392-b2de4e4cc222")
-		(at 183 57.5 180)
+		(at 218 57.5 180)
 		(tags "BLM18RK601SN1D ")
 		(property "Reference" "FB1"
 			(at 0 0 180)
@@ -8587,7 +8587,7 @@
 			)
 			(polygon
 				(pts
-					(xy 183.2159 57.9191) (xy 182.7841 57.9191) (xy 182.7841 57.0809) (xy 183.2159 57.0809)
+					(xy 218.2159 57.9191) (xy 217.7841 57.9191) (xy 217.7841 57.0809) (xy 218.2159 57.0809)
 				)
 			)
 		)
@@ -8595,7 +8595,7 @@
 	(footprint "CustomLibrary:IND_TAIYO_LB3218_TAY"
 		(layer "F.Cu")
 		(uuid "44045b5e-6975-4c45-97b8-45c1021bda2d")
-		(at 137.0062 56.1665)
+		(at 151.454 64.1665)
 		(tags "LB3218T3R3M ")
 		(property "Reference" "L1"
 			(at 0 0 0)
@@ -8918,7 +8918,7 @@
 			)
 			(polygon
 				(pts
-					(xy 136.2061 55.214) (xy 137.8063 55.214) (xy 137.8063 57.119) (xy 136.2061 57.119)
+					(xy 150.6539 63.214) (xy 152.2541 63.214) (xy 152.2541 65.119) (xy 150.6539 65.119)
 				)
 			)
 		)
@@ -8926,9 +8926,9 @@
 	(footprint "CustomLibrary:SOT95P280X110-6N"
 		(layer "F.Cu")
 		(uuid "481243aa-f12f-4b23-bc4f-8edd969a9838")
-		(at 118.255 61.95 180)
+		(at 123.745 64.45 180)
 		(property "Reference" "U5"
-			(at -0.068 -2.2064 0)
+			(at -0.068 -2.2064 360)
 			(layer "F.SilkS")
 			(uuid "9199d9b8-613d-4a7e-9c6b-e71f05904c77")
 			(effects
@@ -8939,7 +8939,7 @@
 			)
 		)
 		(property "Value" "TPS562201"
-			(at 5.404402 2.4668 0)
+			(at 5.404402 2.4668 360)
 			(layer "F.Fab")
 			(uuid "0d2bfb90-ae2d-473e-98d9-063836740c40")
 			(effects
@@ -8950,7 +8950,7 @@
 			)
 		)
 		(property "Footprint" "CustomLibrary:SOT95P280X110-6N"
-			(at 0 0 0)
+			(at 0 0 360)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15486b43-a31d-4b29-af85-431d1244995a")
@@ -8962,7 +8962,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps563200.pdf"
-			(at 0 0 0)
+			(at 0 0 360)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ea2344d-b757-4b7c-831f-e1843725afc9")
@@ -8974,7 +8974,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 360)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2943dbac-9389-474a-966e-120adfec7eb4")
@@ -9248,7 +9248,7 @@
 			(size 1.25 0.59)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.125)
-			(net 1 "+3.3V")
+			(net 18 "/GND")
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
@@ -9313,7 +9313,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "4a7c964a-3b84-4cbd-a128-0797b086b66d")
-		(at 123 73.4478 -90)
+		(at 127.0527 78.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C35"
 			(at 0 0 -90)
@@ -9634,7 +9634,7 @@
 			)
 			(polygon
 				(pts
-					(xy 123.8255 72.635) (xy 123.8255 74.2606) (xy 122.1745 74.2606) (xy 122.1745 72.635)
+					(xy 127.8782 77.7394) (xy 127.8782 79.365) (xy 126.2272 79.365) (xy 126.2272 77.7394)
 				)
 			)
 		)
@@ -9642,7 +9642,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "4e81b744-a7db-4803-856f-caa82aa3c259")
-		(at 155 53)
+		(at 190 53)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C6"
 			(at 0 0 0)
@@ -9952,7 +9952,7 @@
 			)
 			(polygon
 				(pts
-					(xy 153.950799 52.2508) (xy 156.049201 52.2508) (xy 156.049201 53.7492) (xy 153.950799 53.7492)
+					(xy 188.950799 52.2508) (xy 191.049201 52.2508) (xy 191.049201 53.7492) (xy 188.950799 53.7492)
 				)
 			)
 		)
@@ -9960,7 +9960,7 @@
 	(footprint "CustomLibrary:QFP50P1600X1600X120-101N"
 		(layer "F.Cu")
 		(uuid "4ea41490-7bba-4f76-819e-c94ac6420a37")
-		(at 167.0056 56.7784)
+		(at 202 57.7784)
 		(property "Reference" "U3"
 			(at 1.752975 -11.838925 0)
 			(layer "F.SilkS")
@@ -15232,7 +15232,7 @@
 	(footprint "CustomLibrary:RES_YC248_4X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "4ee25c4b-2a3d-4b33-9b47-60976cf8b5ae")
-		(at 140.250001 66.4652 90)
+		(at 175.250001 66.4652 90)
 		(tags "YC248-JR-07330RL ")
 		(property "Reference" "R10"
 			(at 0 0 90)
@@ -16015,7 +16015,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "5778b8bb-97aa-4269-ae11-bbb334608b8c")
-		(at 118.472199 57)
+		(at 133.795799 60)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C37"
 			(at 0 0 0)
@@ -16325,7 +16325,7 @@
 			)
 			(polygon
 				(pts
-					(xy 117.422998 56.2508) (xy 119.5214 56.2508) (xy 119.5214 57.7492) (xy 117.422998 57.7492)
+					(xy 132.746598 59.2508) (xy 134.845 59.2508) (xy 134.845 60.7492) (xy 132.746598 60.7492)
 				)
 			)
 		)
@@ -16333,7 +16333,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "5868563f-c12b-4072-8f59-e3d3d9859f54")
-		(at 176 80.5522 -90)
+		(at 211 80.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C20"
 			(at 0 0 -90)
@@ -16654,7 +16654,7 @@
 			)
 			(polygon
 				(pts
-					(xy 176.8255 79.7394) (xy 176.8255 81.365) (xy 175.1745 81.365) (xy 175.1745 79.7394)
+					(xy 211.8255 79.7394) (xy 211.8255 81.365) (xy 210.1745 81.365) (xy 210.1745 79.7394)
 				)
 			)
 		)
@@ -16662,7 +16662,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "6124ab73-1613-4a70-8ce3-2e89c8e6228f")
-		(at 176 69.5 -90)
+		(at 211 69.5 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C18"
 			(at 0 0 -90)
@@ -16983,7 +16983,7 @@
 			)
 			(polygon
 				(pts
-					(xy 176.8255 68.6872) (xy 176.8255 70.3128) (xy 175.1745 70.3128) (xy 175.1745 68.6872)
+					(xy 211.8255 68.6872) (xy 211.8255 70.3128) (xy 210.1745 70.3128) (xy 210.1745 68.6872)
 				)
 			)
 		)
@@ -16991,7 +16991,7 @@
 	(footprint "CustomLibrary:CONN_SD-105313-100_05_MOL"
 		(layer "F.Cu")
 		(uuid "670df4c1-ba0f-4281-8504-2cd0790b3293")
-		(at 114.308106 61.9666 -90)
+		(at 114.5 62.5 -90)
 		(tags "1053131105 ")
 		(property "Reference" "J1"
 			(at -5 0 -90)
@@ -17366,7 +17366,7 @@
 	(footprint "CustomLibrary:RES_CSRT1206FT5R00_STP"
 		(layer "F.Cu")
 		(uuid "68042310-aa20-45d1-9fe6-19a9aa964fe7")
-		(at 129 66.5 90)
+		(at 164 66.5 90)
 		(tags "CSRT1206FT5R00 ")
 		(property "Reference" "R8"
 			(at 0 0 90)
@@ -17665,7 +17665,7 @@
 			)
 			(polygon
 				(pts
-					(xy 128.1999 67.389) (xy 128.1999 65.611) (xy 129.8001 65.611) (xy 129.8001 67.389)
+					(xy 163.1999 67.389) (xy 163.1999 65.611) (xy 164.8001 65.611) (xy 164.8001 67.389)
 				)
 			)
 		)
@@ -17673,7 +17673,7 @@
 	(footprint "CustomLibrary:STA_RMCF1206_STP"
 		(layer "F.Cu")
 		(uuid "714f423b-92b4-4185-a116-fac324a11d5b")
-		(at 132 62.5)
+		(at 146.4478 70.5)
 		(tags "RMCF1206FT15K0 ")
 		(property "Reference" "R2"
 			(at 0 0 0)
@@ -17972,7 +17972,7 @@
 			)
 			(polygon
 				(pts
-					(xy 131.1364 61.6745) (xy 132.8636 61.6745) (xy 132.8636 63.3255) (xy 131.1364 63.3255)
+					(xy 145.5842 69.6745) (xy 147.3114 69.6745) (xy 147.3114 71.3255) (xy 145.5842 71.3255)
 				)
 			)
 		)
@@ -17980,7 +17980,7 @@
 	(footprint "CustomLibrary:RC1206N_YAG"
 		(layer "F.Cu")
 		(uuid "724a7b3f-4be3-416e-8267-3fd70dfac2a9")
-		(at 137.5 60.5)
+		(at 151.9478 68.5)
 		(tags "RC1206FR-074K7L ")
 		(property "Reference" "R4"
 			(at 0 0 0)
@@ -18279,7 +18279,7 @@
 			)
 			(polygon
 				(pts
-					(xy 136.7126 59.7507) (xy 138.2874 59.7507) (xy 138.2874 61.2493) (xy 136.7126 61.2493)
+					(xy 151.1604 67.7507) (xy 152.7352 67.7507) (xy 152.7352 69.2493) (xy 151.1604 69.2493)
 				)
 			)
 		)
@@ -18287,7 +18287,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "77fdf4f6-2d83-4380-8075-d0d091dc15ff")
-		(at 181 75.1044 -90)
+		(at 216 75.1044 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C11"
 			(at 0 1 -90)
@@ -18608,7 +18608,7 @@
 			)
 			(polygon
 				(pts
-					(xy 181.8255 74.2916) (xy 181.8255 75.9172) (xy 180.1745 75.9172) (xy 180.1745 74.2916)
+					(xy 216.8255 74.2916) (xy 216.8255 75.9172) (xy 215.1745 75.9172) (xy 215.1745 74.2916)
 				)
 			)
 		)
@@ -18616,7 +18616,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "78a38231-40e4-4ac6-9be5-1dd54f4b7e7a")
-		(at 125 63.0536 -90)
+		(at 139.4478 71.0536 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C28"
 			(at 0 0 -90)
@@ -18926,7 +18926,7 @@
 			)
 			(polygon
 				(pts
-					(xy 125.7492 62.004399) (xy 125.7492 64.102801) (xy 124.2508 64.102801) (xy 124.2508 62.004399)
+					(xy 140.197 70.004399) (xy 140.197 72.102801) (xy 138.6986 72.102801) (xy 138.6986 70.004399)
 				)
 			)
 		)
@@ -18934,7 +18934,7 @@
 	(footprint "CustomLibrary:RES_YC248_4X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "7bbad9ad-e2f1-46ac-9853-0be4763d5c37")
-		(at 135.249999 66.4652 90)
+		(at 170.249999 66.4652 90)
 		(tags "YC248-JR-07330RL ")
 		(property "Reference" "R9"
 			(at 0 0 90)
@@ -19717,7 +19717,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "7d670357-1d97-4a16-b766-36410982a291")
-		(at 178.5 69.5522 -90)
+		(at 213.5 69.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C14"
 			(at 0 0 -90)
@@ -20038,7 +20038,7 @@
 			)
 			(polygon
 				(pts
-					(xy 179.3255 68.7394) (xy 179.3255 70.365) (xy 177.6745 70.365) (xy 177.6745 68.7394)
+					(xy 214.3255 68.7394) (xy 214.3255 70.365) (xy 212.6745 70.365) (xy 212.6745 68.7394)
 				)
 			)
 		)
@@ -20046,7 +20046,7 @@
 	(footprint "CustomLibrary:ABLS-8.000MHZ-B2-T_ABR"
 		(layer "F.Cu")
 		(uuid "7d7a8008-3000-4e8d-9f52-5962334d4c49")
-		(at 148.5042 60.5)
+		(at 183.5042 60.5)
 		(tags "ABLS-8.000MHZ-B2-T ")
 		(property "Reference" "ECS-80-18-SPXDS-TR1"
 			(at 0 0 0)
@@ -20533,7 +20533,7 @@
 			)
 			(polygon
 				(pts
-					(xy 146.1166 58.2013) (xy 150.8918 58.2013) (xy 150.8918 62.7987) (xy 146.1166 62.7987)
+					(xy 181.1166 58.2013) (xy 185.8918 58.2013) (xy 185.8918 62.7987) (xy 181.1166 62.7987)
 				)
 			)
 		)
@@ -20541,7 +20541,7 @@
 	(footprint "CustomLibrary:STA_RMCF1206_STP"
 		(layer "F.Cu")
 		(uuid "7e317d8d-f523-4c5f-bb08-a86c989b836b")
-		(at 117 52.9224 -90)
+		(at 132.3236 55.9224 -90)
 		(tags "RMCF1206FT15K0 ")
 		(property "Reference" "R1"
 			(at 0 0 -90)
@@ -20840,7 +20840,7 @@
 			)
 			(polygon
 				(pts
-					(xy 117.8255 52.0588) (xy 117.8255 53.786) (xy 116.1745 53.786) (xy 116.1745 52.0588)
+					(xy 133.1491 55.0588) (xy 133.1491 56.786) (xy 131.4981 56.786) (xy 131.4981 55.0588)
 				)
 			)
 		)
@@ -20848,10 +20848,10 @@
 	(footprint "CustomLibrary:RC1206N_YAG"
 		(layer "F.Cu")
 		(uuid "885c4cac-c8fd-4821-b9b3-b57ddcde7e12")
-		(at 119.602 69.5439)
+		(at 118 67.897 -90)
 		(tags "RC1206FR-074K7L ")
 		(property "Reference" "R5"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "73a7768d-6b04-4d1f-a29a-55fec36f21ed")
@@ -20863,7 +20863,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "5ccb50f7-9c52-4d90-a1a0-e4aae75b5900")
@@ -20875,7 +20875,7 @@
 			)
 		)
 		(property "Footprint" "RC1206N_YAG"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba56c964-4804-453a-a54d-8b0066afcd8a")
@@ -20887,7 +20887,7 @@
 			)
 		)
 		(property "Datasheet" "RC1206FR-0733KL"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "12651ed6-a7f1-4d9c-ae06-94fee1a7f4e2")
@@ -20899,7 +20899,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0757c6df-070e-419e-941e-d8b707b55215")
@@ -20936,16 +20936,6 @@
 			(uuid "62e2eb56-4569-4b3e-a924-45509a506866")
 		)
 		(fp_line
-			(start -2.2098 -1.0541)
-			(end 2.2098 -1.0541)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9602a2be-2d06-4b40-8b88-28715fd0843b")
-		)
-		(fp_line
 			(start -2.2098 1.0541)
 			(end -2.2098 -1.0541)
 			(stroke
@@ -20954,16 +20944,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "fda4f67f-efa0-44d3-82fd-81d47f6d53f1")
-		)
-		(fp_line
-			(start 2.2098 -1.0541)
-			(end 2.2098 1.0541)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4a43d9ec-5d80-4acd-b0b7-55ddea24638a")
 		)
 		(fp_line
 			(start 2.2098 1.0541)
@@ -20976,24 +20956,24 @@
 			(uuid "d3d2fd6c-1375-46b8-8fec-17899f5c8779")
 		)
 		(fp_line
-			(start -1.6002 -0.8001)
-			(end -1.6002 0.8001)
+			(start -2.2098 -1.0541)
+			(end 2.2098 -1.0541)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "010076eb-b80f-490c-9c83-a5a3e17d684a")
+			(layer "F.CrtYd")
+			(uuid "9602a2be-2d06-4b40-8b88-28715fd0843b")
 		)
 		(fp_line
-			(start -1.6002 -0.8001)
-			(end -1.6002 0.8001)
+			(start 2.2098 -1.0541)
+			(end 2.2098 1.0541)
 			(stroke
-				(width 0.0254)
+				(width 0.1524)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "6f35b042-bb79-4313-b25d-753ef89660d3")
+			(layer "F.CrtYd")
+			(uuid "4a43d9ec-5d80-4acd-b0b7-55ddea24638a")
 		)
 		(fp_line
 			(start -1.6002 0.8001)
@@ -21016,16 +20996,6 @@
 			(uuid "0f65e7da-cddf-4078-b6e6-e93e0ff257ca")
 		)
 		(fp_line
-			(start -0.8382 -0.8001)
-			(end -1.6002 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c3475acd-e10c-40c4-b10f-ae654c58b04c")
-		)
-		(fp_line
 			(start -0.8382 0.8001)
 			(end -0.8382 -0.8001)
 			(stroke
@@ -21036,16 +21006,6 @@
 			(uuid "332a5361-51b5-43ce-b2c6-9a6036b21823")
 		)
 		(fp_line
-			(start 0.8382 -0.8001)
-			(end 0.8382 0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d8f69ba3-0b3f-44d1-8e9b-1d5bd9177697")
-		)
-		(fp_line
 			(start 0.8382 0.8001)
 			(end 1.6002 0.8001)
 			(stroke
@@ -21054,26 +21014,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "83c55afa-21d8-4c03-9e76-c6f4bc1835d2")
-		)
-		(fp_line
-			(start 1.6002 -0.8001)
-			(end -1.6002 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bc9747cf-55ea-4597-bfaa-f2bfd4a68551")
-		)
-		(fp_line
-			(start 1.6002 -0.8001)
-			(end 0.8382 -0.8001)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "78a3b769-2553-42b4-8334-b9e177d92e26")
 		)
 		(fp_line
 			(start 1.6002 0.8001)
@@ -21095,8 +21035,68 @@
 			(layer "F.Fab")
 			(uuid "6e28c610-e8ea-4348-9ac9-4044cdb73569")
 		)
+		(fp_line
+			(start -1.6002 -0.8001)
+			(end -1.6002 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "010076eb-b80f-490c-9c83-a5a3e17d684a")
+		)
+		(fp_line
+			(start -1.6002 -0.8001)
+			(end -1.6002 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6f35b042-bb79-4313-b25d-753ef89660d3")
+		)
+		(fp_line
+			(start -0.8382 -0.8001)
+			(end -1.6002 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c3475acd-e10c-40c4-b10f-ae654c58b04c")
+		)
+		(fp_line
+			(start 0.8382 -0.8001)
+			(end 0.8382 0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d8f69ba3-0b3f-44d1-8e9b-1d5bd9177697")
+		)
+		(fp_line
+			(start 1.6002 -0.8001)
+			(end -1.6002 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bc9747cf-55ea-4597-bfaa-f2bfd4a68551")
+		)
+		(fp_line
+			(start 1.6002 -0.8001)
+			(end 0.8382 -0.8001)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "78a3b769-2553-42b4-8334-b9e177d92e26")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "3cf4139d-8a25-42fa-8627-bf449b4a58b8")
@@ -21108,7 +21108,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -1.397 0)
+			(at -1.397 0 270)
 			(size 1.1176 1.6002)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 4 "+5V")
@@ -21116,7 +21116,7 @@
 			(uuid "b1281201-0ffc-456e-b0e7-3aa9706249af")
 		)
 		(pad "2" smd rect
-			(at 1.397 0)
+			(at 1.397 0 270)
 			(size 1.1176 1.6002)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 77 "Net-(R5-Pad2)")
@@ -21147,7 +21147,7 @@
 			)
 			(polygon
 				(pts
-					(xy 118.8146 68.7946) (xy 120.3894 68.7946) (xy 120.3894 70.2932) (xy 118.8146 70.2932)
+					(xy 118.7493 67.1096) (xy 118.7493 68.6844) (xy 117.2507 68.6844) (xy 117.2507 67.1096)
 				)
 			)
 		)
@@ -21155,7 +21155,7 @@
 	(footprint "CustomLibrary:CL1206_SAM"
 		(layer "F.Cu")
 		(uuid "88e56ebe-b2f2-4d94-9115-fa5190d2ddf3")
-		(at 125 58.5268 -90)
+		(at 139.4478 66.5268 -90)
 		(tags "CL31A226MOCLNNC ")
 		(property "Reference" "C27"
 			(at 0 0 -90)
@@ -21465,7 +21465,7 @@
 			)
 			(polygon
 				(pts
-					(xy 125.8509 57.6886) (xy 125.8509 59.365) (xy 124.1491 59.365) (xy 124.1491 57.6886)
+					(xy 140.2987 65.6886) (xy 140.2987 67.365) (xy 138.5969 67.365) (xy 138.5969 65.6886)
 				)
 			)
 		)
@@ -21473,7 +21473,7 @@
 	(footprint "CustomLibrary:MULTICOMP_60S019P-301N-B1-FEC"
 		(layer "F.Cu")
 		(uuid "8ae9b336-10f0-4dcd-9888-4b639734d6d6")
-		(at 163 74.2375)
+		(at 198 74.2375)
 		(property "Reference" "J6"
 			(at -2.325 -5.905 0)
 			(layer "F.SilkS")
@@ -22214,7 +22214,7 @@
 	(footprint "CustomLibrary:RC1206N_YAG"
 		(layer "F.Cu")
 		(uuid "8c8d8356-8126-4419-87aa-0eae2767eb67")
-		(at 123.5 78.897 90)
+		(at 129.5 83.103 90)
 		(tags "RC1206FR-074K7L ")
 		(property "Reference" "R7"
 			(at 0 0 90)
@@ -22513,7 +22513,7 @@
 			)
 			(polygon
 				(pts
-					(xy 122.7507 79.6844) (xy 122.7507 78.1096) (xy 124.2493 78.1096) (xy 124.2493 79.6844)
+					(xy 128.7507 83.8904) (xy 128.7507 82.3156) (xy 130.2493 82.3156) (xy 130.2493 83.8904)
 				)
 			)
 		)
@@ -22521,7 +22521,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "8d8dd349-60f6-4513-acf9-0becfdd5a246")
-		(at 127.972199 51.5)
+		(at 162.972199 51.5)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C4"
 			(at 0 0 0)
@@ -22831,7 +22831,7 @@
 			)
 			(polygon
 				(pts
-					(xy 126.922998 50.7508) (xy 129.0214 50.7508) (xy 129.0214 52.2492) (xy 126.922998 52.2492)
+					(xy 161.922998 50.7508) (xy 164.0214 50.7508) (xy 164.0214 52.2492) (xy 161.922998 52.2492)
 				)
 			)
 		)
@@ -22839,7 +22839,7 @@
 	(footprint "CustomLibrary:SOIC8_4P9X3P9MC_MCH"
 		(layer "F.Cu")
 		(uuid "935ca9bc-cda5-48b7-a9dc-a41514b6a60a")
-		(at 135.0362 50.405)
+		(at 170.0362 50.405)
 		(tags "MCP2542FD-E/SN ")
 		(property "Reference" "U2"
 			(at 0 0 0)
@@ -23551,7 +23551,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "95910ea3-023b-407b-986f-22ef08d835b2")
-		(at 183.5 80.5522 -90)
+		(at 218.5 80.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C9"
 			(at 0 0 -90)
@@ -23872,7 +23872,7 @@
 			)
 			(polygon
 				(pts
-					(xy 184.3255 79.7394) (xy 184.3255 81.365) (xy 182.6745 81.365) (xy 182.6745 79.7394)
+					(xy 219.3255 79.7394) (xy 219.3255 81.365) (xy 217.6745 81.365) (xy 217.6745 79.7394)
 				)
 			)
 		)
@@ -23880,7 +23880,7 @@
 	(footprint "CustomLibrary:CL1206_SAM"
 		(layer "F.Cu")
 		(uuid "a1df90b1-6c8a-495d-bc5b-800a7cafbeb3")
-		(at 120.5 73.4732 -90)
+		(at 124.5527 73.9732 -90)
 		(tags "CL31A226MOCLNNC ")
 		(property "Reference" "C33"
 			(at 0 0 -90)
@@ -24190,7 +24190,7 @@
 			)
 			(polygon
 				(pts
-					(xy 121.3509 72.635) (xy 121.3509 74.3114) (xy 119.6491 74.3114) (xy 119.6491 72.635)
+					(xy 125.4036 73.135) (xy 125.4036 74.8114) (xy 123.7018 74.8114) (xy 123.7018 73.135)
 				)
 			)
 		)
@@ -24198,7 +24198,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "a239002a-a1b0-44ca-975e-ecb309e60abd")
-		(at 173.5 80.632201 -90)
+		(at 208.5 80.632201 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C24"
 			(at 0 0 -90)
@@ -24508,7 +24508,7 @@
 			)
 			(polygon
 				(pts
-					(xy 174.2492 79.583) (xy 174.2492 81.681402) (xy 172.7508 81.681402) (xy 172.7508 79.583)
+					(xy 209.2492 79.583) (xy 209.2492 81.681402) (xy 207.7508 81.681402) (xy 207.7508 79.583)
 				)
 			)
 		)
@@ -24516,7 +24516,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "a3032a52-f42a-4ad7-8564-e6bfd7a266ae")
-		(at 142.219201 52.46)
+		(at 177.219201 52.46)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C2"
 			(at 0 0 0)
@@ -24826,7 +24826,7 @@
 			)
 			(polygon
 				(pts
-					(xy 141.17 51.7108) (xy 143.268402 51.7108) (xy 143.268402 53.2092) (xy 141.17 53.2092)
+					(xy 176.17 51.7108) (xy 178.268402 51.7108) (xy 178.268402 53.2092) (xy 176.17 53.2092)
 				)
 			)
 		)
@@ -24834,7 +24834,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "a5b909e0-7569-42c6-bf16-ae1eeee6df29")
-		(at 176 75.1044 -90)
+		(at 211 75.1044 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C19"
 			(at 0 1 -90)
@@ -25155,7 +25155,7 @@
 			)
 			(polygon
 				(pts
-					(xy 176.8255 74.2916) (xy 176.8255 75.9172) (xy 175.1745 75.9172) (xy 175.1745 74.2916)
+					(xy 211.8255 74.2916) (xy 211.8255 75.9172) (xy 210.1745 75.9172) (xy 210.1745 74.2916)
 				)
 			)
 		)
@@ -25163,7 +25163,7 @@
 	(footprint "CustomLibrary:FERRITE_0603_1P6XP8_MUR"
 		(layer "F.Cu")
 		(uuid "a647034b-c034-4e2d-913e-9db0f1ab53f3")
-		(at 183 53.5 180)
+		(at 218 53.5 180)
 		(tags "BLM18RK601SN1D ")
 		(property "Reference" "FB3"
 			(at 0 0 180)
@@ -25455,7 +25455,7 @@
 			)
 			(polygon
 				(pts
-					(xy 183.2159 53.9191) (xy 182.7841 53.9191) (xy 182.7841 53.0809) (xy 183.2159 53.0809)
+					(xy 218.2159 53.9191) (xy 217.7841 53.9191) (xy 217.7841 53.0809) (xy 218.2159 53.0809)
 				)
 			)
 		)
@@ -25463,7 +25463,7 @@
 	(footprint "CustomLibrary:FERRITE_0603_1P6XP8_MUR"
 		(layer "F.Cu")
 		(uuid "a8b10b60-e205-485c-a217-a01b6e639500")
-		(at 183 59.5 180)
+		(at 218 59.5 180)
 		(tags "BLM18RK601SN1D ")
 		(property "Reference" "FB4"
 			(at 0 0 180)
@@ -25756,7 +25756,7 @@
 			)
 			(polygon
 				(pts
-					(xy 183.2159 59.9191) (xy 182.7841 59.9191) (xy 182.7841 59.0809) (xy 183.2159 59.0809)
+					(xy 218.2159 59.9191) (xy 217.7841 59.9191) (xy 217.7841 59.0809) (xy 218.2159 59.0809)
 				)
 			)
 		)
@@ -25764,7 +25764,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "a9ea4719-307f-4d83-9482-afb900984f5a")
-		(at 122.5 63.081401 -90)
+		(at 136.9478 71.081401 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C26"
 			(at 0 0 -90)
@@ -26074,7 +26074,7 @@
 			)
 			(polygon
 				(pts
-					(xy 123.2492 62.0322) (xy 123.2492 64.130602) (xy 121.7508 64.130602) (xy 121.7508 62.0322)
+					(xy 137.697 70.0322) (xy 137.697 72.130602) (xy 136.1986 72.130602) (xy 136.1986 70.0322)
 				)
 			)
 		)
@@ -26082,7 +26082,7 @@
 	(footprint "CustomLibrary:SOIC14_150MIL_SL_MCH"
 		(layer "F.Cu")
 		(uuid "aa2b2a1c-614e-4487-acd3-07ab8d99f58f")
-		(at 148.373501 52.31)
+		(at 183.373501 52.31)
 		(tags "MCP2518FDT-H/SL ")
 		(property "Reference" "U1"
 			(at 0 0 0)
@@ -27100,7 +27100,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "aa62efa0-ef95-45b5-9ddf-c5e45132dcdc")
-		(at 155 50.5)
+		(at 190 50.5)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C5"
 			(at 0 0 0)
@@ -27410,7 +27410,7 @@
 			)
 			(polygon
 				(pts
-					(xy 153.950799 49.7508) (xy 156.049201 49.7508) (xy 156.049201 51.2492) (xy 153.950799 51.2492)
+					(xy 188.950799 49.7508) (xy 191.049201 49.7508) (xy 191.049201 51.2492) (xy 188.950799 51.2492)
 				)
 			)
 		)
@@ -27418,7 +27418,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "ac027abf-8081-4d28-ac02-9d36cdcae39d")
-		(at 183.5 69.5522 -90)
+		(at 218.5 69.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C7"
 			(at 0 0 -90)
@@ -27739,7 +27739,7 @@
 			)
 			(polygon
 				(pts
-					(xy 184.3255 68.7394) (xy 184.3255 70.365) (xy 182.6745 70.365) (xy 182.6745 68.7394)
+					(xy 219.3255 68.7394) (xy 219.3255 70.365) (xy 217.6745 70.365) (xy 217.6745 68.7394)
 				)
 			)
 		)
@@ -27747,7 +27747,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "ae2fd6c2-764a-41af-bc99-6454c4bb7810")
-		(at 178.5 75.1044 -90)
+		(at 213.5 75.1044 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C15"
 			(at 0 1 -90)
@@ -28068,7 +28068,7 @@
 			)
 			(polygon
 				(pts
-					(xy 179.3255 74.2916) (xy 179.3255 75.9172) (xy 177.6745 75.9172) (xy 177.6745 74.2916)
+					(xy 214.3255 74.2916) (xy 214.3255 75.9172) (xy 212.6745 75.9172) (xy 212.6745 74.2916)
 				)
 			)
 		)
@@ -28076,7 +28076,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "afaeadd6-2da5-4996-bfbd-baaba39f1884")
-		(at 127.5 58.5536 -90)
+		(at 141.9478 66.5536 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C29"
 			(at 0 0 -90)
@@ -28397,7 +28397,7 @@
 			)
 			(polygon
 				(pts
-					(xy 128.3255 57.7408) (xy 128.3255 59.3664) (xy 126.6745 59.3664) (xy 126.6745 57.7408)
+					(xy 142.7733 65.7408) (xy 142.7733 67.3664) (xy 141.1223 67.3664) (xy 141.1223 65.7408)
 				)
 			)
 		)
@@ -28405,7 +28405,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "bc5e2879-94e4-410f-bb8e-8acecfe642f3")
-		(at 141.5 56)
+		(at 155.9478 64)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C30"
 			(at 0 0 0)
@@ -28726,7 +28726,7 @@
 			)
 			(polygon
 				(pts
-					(xy 140.6872 55.1745) (xy 142.3128 55.1745) (xy 142.3128 56.8255) (xy 140.6872 56.8255)
+					(xy 155.135 63.1745) (xy 156.7606 63.1745) (xy 156.7606 64.8255) (xy 155.135 64.8255)
 				)
 			)
 		)
@@ -28734,7 +28734,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "beef1716-dffa-4350-ab9a-ddd6276ebc16")
-		(at 131.5 66.5 90)
+		(at 166.5 66.5 90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C39"
 			(at 0 0 90)
@@ -29044,7 +29044,7 @@
 			)
 			(polygon
 				(pts
-					(xy 130.7508 67.549201) (xy 130.7508 65.450799) (xy 132.2492 65.450799) (xy 132.2492 67.549201)
+					(xy 165.7508 67.549201) (xy 165.7508 65.450799) (xy 167.2492 65.450799) (xy 167.2492 67.549201)
 				)
 			)
 		)
@@ -29052,7 +29052,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "c0ea656f-0176-45a1-a1e8-1fc64b168363")
-		(at 118 78.0522 -90)
+		(at 122.0527 78.5522 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C32"
 			(at 0 0 -90)
@@ -29362,7 +29362,7 @@
 			)
 			(polygon
 				(pts
-					(xy 118.7492 77.002999) (xy 118.7492 79.101401) (xy 117.2508 79.101401) (xy 117.2508 77.002999)
+					(xy 122.8019 77.502999) (xy 122.8019 79.601401) (xy 121.3035 79.601401) (xy 121.3035 77.502999)
 				)
 			)
 		)
@@ -29370,7 +29370,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "c171cdfe-b3b4-4a83-8223-670ce00a3c0d")
-		(at 127.972199 49)
+		(at 162.972199 49)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C3"
 			(at 0 0 0)
@@ -29680,7 +29680,7 @@
 			)
 			(polygon
 				(pts
-					(xy 126.922998 48.2508) (xy 129.0214 48.2508) (xy 129.0214 49.7492) (xy 126.922998 49.7492)
+					(xy 161.922998 48.2508) (xy 164.0214 48.2508) (xy 164.0214 49.7492) (xy 161.922998 49.7492)
 				)
 			)
 		)
@@ -29688,7 +29688,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "c5d82412-3ae5-4199-acb9-200bdaadf546")
-		(at 181 69.5522 -90)
+		(at 216 69.5522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C10"
 			(at 0 0 -90)
@@ -30009,7 +30009,7 @@
 			)
 			(polygon
 				(pts
-					(xy 181.8255 68.7394) (xy 181.8255 70.365) (xy 180.1745 70.365) (xy 180.1745 68.7394)
+					(xy 216.8255 68.7394) (xy 216.8255 70.365) (xy 215.1745 70.365) (xy 215.1745 68.7394)
 				)
 			)
 		)
@@ -30017,7 +30017,7 @@
 	(footprint "CustomLibrary:FERRITE_0603_1P6XP8_MUR"
 		(layer "F.Cu")
 		(uuid "c8c7718c-0fc7-4972-a597-67f0c5ba40ad")
-		(at 183 55.5 180)
+		(at 218 55.5 180)
 		(tags "BLM18RK601SN1D ")
 		(property "Reference" "FB2"
 			(at 0 0 180)
@@ -30309,7 +30309,7 @@
 			)
 			(polygon
 				(pts
-					(xy 183.2159 55.9191) (xy 182.7841 55.9191) (xy 182.7841 55.0809) (xy 183.2159 55.0809)
+					(xy 218.2159 55.9191) (xy 217.7841 55.9191) (xy 217.7841 55.0809) (xy 218.2159 55.0809)
 				)
 			)
 		)
@@ -30317,7 +30317,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "cc8015ed-7e62-4abc-8c32-9dfe0e955ff0")
-		(at 120.5 78.0522 -90)
+		(at 124.5527 78.5522 -90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C34"
 			(at 0 0 -90)
@@ -30627,7 +30627,7 @@
 			)
 			(polygon
 				(pts
-					(xy 121.2492 77.002999) (xy 121.2492 79.101401) (xy 119.7508 79.101401) (xy 119.7508 77.002999)
+					(xy 125.3019 77.502999) (xy 125.3019 79.601401) (xy 123.8035 79.601401) (xy 123.8035 77.502999)
 				)
 			)
 		)
@@ -30635,7 +30635,7 @@
 	(footprint "CustomLibrary:CAP_CL31_SAM"
 		(layer "F.Cu")
 		(uuid "ce32091b-8bce-4df0-be4c-3dd8436af749")
-		(at 121 53.5 90)
+		(at 136.3236 56.5 90)
 		(tags "CL31A106MAHNNNE ")
 		(property "Reference" "C38"
 			(at 0 0 90)
@@ -30945,7 +30945,7 @@
 			)
 			(polygon
 				(pts
-					(xy 120.2508 54.549201) (xy 120.2508 52.450799) (xy 121.7492 52.450799) (xy 121.7492 54.549201)
+					(xy 135.5744 57.549201) (xy 135.5744 55.450799) (xy 137.0728 55.450799) (xy 137.0728 57.549201)
 				)
 			)
 		)
@@ -30953,7 +30953,7 @@
 	(footprint "CustomLibrary:CAP_1206_B_WAL"
 		(layer "F.Cu")
 		(uuid "cf935d96-7ce7-4fcc-aba5-ce60f78f8f46")
-		(at 183.5 75.0522 -90)
+		(at 218.5 75.0522 -90)
 		(tags "1206B104K500CT ")
 		(property "Reference" "C8"
 			(at 0 0 -90)
@@ -31274,7 +31274,7 @@
 			)
 			(polygon
 				(pts
-					(xy 184.3255 74.2394) (xy 184.3255 75.865) (xy 182.6745 75.865) (xy 182.6745 74.2394)
+					(xy 219.3255 74.2394) (xy 219.3255 75.865) (xy 217.6745 75.865) (xy 217.6745 74.2394)
 				)
 			)
 		)
@@ -31282,7 +31282,7 @@
 	(footprint "CustomLibrary:RESC3115X65N"
 		(layer "F.Cu")
 		(uuid "d2b558ba-ffa5-4070-848e-b4abbe193e0d")
-		(at 132.04 59.5)
+		(at 146.4878 67.5)
 		(property "Reference" "R3"
 			(at -0.99 -1.45 0)
 			(layer "F.SilkS")
@@ -31571,7 +31571,7 @@
 	(footprint "CustomLibrary:IND_TAIYO_LB3218_TAY"
 		(layer "F.Cu")
 		(uuid "f4826fe0-bee8-480f-af4b-77804b086be2")
-		(at 124.22365 67)
+		(at 127.77635 72)
 		(tags "LB3218T3R3M ")
 		(property "Reference" "L2"
 			(at 0 0 0)
@@ -31894,7 +31894,7 @@
 			)
 			(polygon
 				(pts
-					(xy 123.42355 66.0475) (xy 125.02375 66.0475) (xy 125.02375 67.9525) (xy 123.42355 67.9525)
+					(xy 126.97625 71.0475) (xy 128.57645 71.0475) (xy 128.57645 72.9525) (xy 126.97625 72.9525)
 				)
 			)
 		)
@@ -31902,7 +31902,7 @@
 	(footprint "CustomLibrary:RES_YC248_4X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "f6fe4ae4-45c5-475f-babf-248bc9f280c3")
-		(at 150.25 66.4652 90)
+		(at 185.25 66.4652 90)
 		(tags "YC248-JR-07330RL ")
 		(property "Reference" "R12"
 			(at 0 0 90)
@@ -32685,7 +32685,7 @@
 	(footprint "CustomLibrary:SOD-123_ONS"
 		(layer "F.Cu")
 		(uuid "fd394a56-3a30-48f5-9c2a-b61b5f5fb78b")
-		(at 125.5 54.5)
+		(at 140.8236 57.5)
 		(tags "MBR0540T3G ")
 		(property "Reference" "D1"
 			(at 0 0 0)
@@ -33150,8 +33150,8 @@
 		)
 	)
 	(gr_line
-		(start 185.91 47.1)
-		(end 185.91 84.5)
+		(start 220.91 47.1)
+		(end 220.91 84.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33160,8 +33160,8 @@
 		(uuid "0a236e44-754e-4418-8dd0-98d1daea3efe")
 	)
 	(gr_line
-		(start 126.62 76.5)
-		(end 153.77 76.5)
+		(start 161.62 76.5)
+		(end 188.77 76.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33170,8 +33170,8 @@
 		(uuid "1d4441a8-f23d-40fb-9715-d381ce78c2b6")
 	)
 	(gr_line
-		(start 104 47.1)
-		(end 185.91 47.1)
+		(start 139 47.1)
+		(end 220.91 47.1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33180,8 +33180,8 @@
 		(uuid "5029be77-396a-4b83-9c3a-270ad55460e4")
 	)
 	(gr_line
-		(start 153.77 84.5)
-		(end 153.77 76.5)
+		(start 188.77 84.5)
+		(end 188.77 76.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33201,8 +33201,8 @@
 		(uuid "6b7b7af7-d78e-4fca-8897-8fbcb322d40c")
 	)
 	(gr_line
-		(start 117.9 84.5)
-		(end 126.62 84.5)
+		(start 152.9 84.5)
+		(end 161.62 84.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33211,7 +33211,7 @@
 		(uuid "83891cc7-6945-4348-a83a-01782260122d")
 	)
 	(gr_line
-		(start 117.9 116)
+		(start 152.9 116)
 		(end 104 116)
 		(stroke
 			(width 0.05)
@@ -33221,8 +33221,8 @@
 		(uuid "89310aed-81a9-4dc9-9c00-a024c8da962c")
 	)
 	(gr_line
-		(start 117.9 116)
-		(end 117.9 84.5)
+		(start 152.9 116)
+		(end 152.9 84.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33231,8 +33231,18 @@
 		(uuid "a0f54736-119b-40cc-ab51-7a8241fe3556")
 	)
 	(gr_line
-		(start 185.91 84.5)
-		(end 153.77 84.5)
+		(start 104 47.1)
+		(end 139 47.1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ab90fede-2377-437f-a85b-db020c44e1fc")
+	)
+	(gr_line
+		(start 220.91 84.5)
+		(end 188.77 84.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -33241,13 +33251,24 @@
 		(uuid "c7cab56a-f3e1-4219-83d3-6ef56836a9ad")
 	)
 	(gr_line
-		(start 126.62 84.5)
-		(end 126.62 76.5)
+		(start 161.62 84.5)
+		(end 161.62 76.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "dd36d60b-99be-4be4-9d0a-7b9775fe8e87")
+	)
+	(group ""
+		(uuid "00547c4b-5303-484f-9194-b00b5dec7efa")
+		(members "0595ef94-3070-4002-a26a-5f2631841d39" "0b55cd1f-799e-413a-96c8-20b019c8ff18"
+			"5778b8bb-97aa-4269-ae11-bbb334608b8c" "7e317d8d-f523-4c5f-bb08-a86c989b836b"
+			"ce32091b-8bce-4df0-be4c-3dd8436af749" "fd394a56-3a30-48f5-9c2a-b61b5f5fb78b"
+		)
+	)
+	(group ""
+		(uuid "7d44d92f-64ae-4e5c-b54c-c180fafb88be")
+		(members "22913dd9-f1b9-4018-9a63-75e7403e91e2" "885c4cac-c8fd-4821-b9b3-b57ddcde7e12")
 	)
 )
