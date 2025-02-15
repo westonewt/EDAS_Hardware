@@ -1,0 +1,16 @@
+Contact Name:  Weston McClinchey
+Contact Email:  mcclinch@ualberta.ca
+Group Number:  25
+Course:  ECE 491
+
+Board Manufacturing Method: professional  
+Check only: yes  
+Number of Boards of this Design to be Produced: 5
+Board Cost estimate: 5.94
+Shipping Cost estimate: 33.00
+Board Size (include units): 11.51 x 25.79mm
+
+Stencil Production: none
+
+Special Instructions: This is 1 of 3 boards that should be included in the same order to save on shipping
+
