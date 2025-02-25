@@ -4,11 +4,11 @@ Group Number:  25
 Course:  ECE 491
 
 Board Manufacturing Method: professional  
-Check only: yes  
+Check only: none  
 Number of Boards of this Design to be Produced: 5
-Board Cost estimate: 9.91
+Board Cost estimate: 5.80
 Shipping Cost estimate: 33.00
-Board Size (include units): 114.9 x 66.9mm
+Board Size (include units): 75.1 x 30mm
 
 Stencil Production: none
 
